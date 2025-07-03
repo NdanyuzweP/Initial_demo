@@ -321,8 +321,6 @@ Use the Swagger documentation at `/api-docs` for interactive API testing.
 
 ##  License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ##  Support
 
 For support, email support@ridra.com or create an issue in the GitHub repository.
@@ -331,10 +329,5 @@ For support, email support@ridra.com or create an issue in the GitHub repository
 
 - **Backend API**: https://capstone1-60ax.onrender.com
 - **API Documentation**: https://capstone1-60ax.onrender.com/api-docs
-- **Admin Panel**: [Your deployed admin URL]
-- **GitHub Repository**: [Your repository URL]
-
-
-Link to github Repo: https://github.com/NdanyuzweP/Initial_demo.git
-
-Link to Drive with video: https://drive.google.com/drive/folders/1OfwFkqupDfuhJHxR4QCG3feYop1fXFF0?usp=sharing 
+- **drive with video**: [[Your deployed admin URL]](https://drive.google.com/drive/folders/1OfwFkqupDfuhJHxR4QCG3feYop1fXFF0?usp=sharing )
+- **GitHub Repository**: https://github.com/NdanyuzweP/Initial_demo.git
