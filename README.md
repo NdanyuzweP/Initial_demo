@@ -329,5 +329,5 @@ For support, email support@ridra.com or create an issue in the GitHub repository
 
 - **Backend API**: https://capstone1-60ax.onrender.com
 - **API Documentation**: https://capstone1-60ax.onrender.com/api-docs
-- **drive with video**: [[Your deployed admin URL]](https://drive.google.com/drive/folders/1OfwFkqupDfuhJHxR4QCG3feYop1fXFF0?usp=sharing )
+- **drive with video**: https://drive.google.com/drive/folders/1OfwFkqupDfuhJHxR4QCG3feYop1fXFF0?usp=sharing
 - **GitHub Repository**: https://github.com/NdanyuzweP/Initial_demo.git
